@@ -5,10 +5,6 @@ __pycache__
 # Vector store (since it can be regenerated)
 /vectorstore
 
-# Environment variables (if you add them later)
-.env
-app/.env
-
 # Virtual environment
 venv/
 env/
