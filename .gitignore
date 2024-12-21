@@ -1,4 +1,5 @@
 # Python cache files
+__pycache__
 .app/__pycache__
 
 # Vector store (since it can be regenerated)
